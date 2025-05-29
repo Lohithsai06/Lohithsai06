@@ -138,11 +138,7 @@
   </a>
 </div>
 
-<!-- GitHub Stats Section -->
-<div align="center" style="background-color: #000000;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lohithsai&show_icons=true&theme=radical&bg_color=000000&title_color=00FFFF&icon_color=F8D866&hide_border=true&text_color=00ff00" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lohithsai&theme=radical&background=000000&ring=00FFFF&fire=F8D866&currStreakLabel=00FFFF&hide_border=true&stroke=00ff00&sideLabels=00ffff&currStreakNum=00ffff&sideNums=00ffff" width="400">
-</div>
+
 
 <!-- Animated Footer with Wave -->
 <div style="position: relative; width: 100%; overflow: hidden; background: linear-gradient(180deg, #000000 0%, #000033 100%); padding: 60px 0 30px; margin-top: 40px;">
@@ -155,57 +151,4 @@
       <span>✨</span> Happy Coding! <span>✨</span>
     </h3>
     
-    <!-- Signature -->
-    <p style="color: #ffffff; font-size: 1.1em; margin: 15px 0 25px;">
-      <span style="color: #00ffff;">⭐️</span> Crafted with <span style="color: #ff00ff;">❤️</span> by 
-      <a href="https://github.com/lohithsai" style="color: #00ffff; text-decoration: none; font-weight: bold; transition: all 0.3s;" onmouseover="this.style.textShadow='0 0 10px #00ffff';" onmouseout="this.style.textShadow='none';">
-        Lohith Sai
-      </a>
-    </p>
-    
-    <!-- Social Links with Animation -->
-    <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin-top: 20px;">
-      <a href="https://linkedin.com/in/lohithsai" target="_blank" title="LinkedIn" style="color: #0a66c2; font-size: 2em; transition: all 0.3s;" onmouseover="this.transform='scale(1.2)'; this.textShadow='0 0 15px #0a66c2';" onmouseout="this.transform='scale(1)'; this.textShadow='none';">
-        <i class="fab fa-linkedin"></i>
-      </a>
-      <a href="mailto:lohithsai0808@gmail.com" target="_blank" title="Email" style="color: #ea4335; font-size: 2em; transition: all 0.3s;" onmouseover="this.transform='scale(1.2)'; this.textShadow='0 0 15px #ea4335';" onmouseout="this.transform='scale(1)'; this.textShadow='none';">
-        <i class="fas fa-envelope"></i>
-      </a>
-      <a href="https://twitter.com/lohithsai06" target="_blank" title="Twitter" style="color: #1DA1F2; font-size: 2em; transition: all 0.3s;" onmouseover="this.transform='scale(1.2)'; this.textShadow='0 0 15px #1DA1F2';" onmouseout="this.transform='scale(1)'; this.textShadow='none';">
-        <i class="fab fa-twitter"></i>
-      </a>
-      <a href="https://github.com/lohithsai" target="_blank" title="GitHub" style="color: #ffffff; font-size: 2em; transition: all 0.3s;" onmouseover="this.transform='scale(1.2)'; this.textShadow='0 0 15px #ffffff';" onmouseout="this.transform='scale(1)'; this.textShadow='none';">
-        <i class="fab fa-github"></i>
-      </a>
-      <a href="#" target="_blank" title="Portfolio" style="color: #00ffff; font-size: 2em; transition: all 0.3s;" onmouseover="this.transform='scale(1.2)'; this.textShadow='0 0 15px #00ffff';" onmouseout="this.transform='scale(1)'; this.textShadow='none';">
-        <i class="fas fa-globe"></i>
-      </a>
-    </div>
-    
-    <!-- Visitor Counter -->
-    <div style="margin-top: 30px; color: #666; font-size: 0.9em;">
-      <img src="https://komarev.com/ghpvc/?username=lohithsai&style=flat-square&color=00ffff" alt="Profile views" />
-    </div>
-  </div>
-  
-  <!-- CSS Animation -->
-  <style>
-    @keyframes wave {
-      0% { transform: translateX(0) translateZ(0) scaleY(1); }
-      50% { transform: translateX(-25%) translateZ(0) scaleY(0.8); }
-      100% { transform: translateX(-50%) translateZ(0) scaleY(1); }
-    }
-    @keyframes glow {
-      from { text-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff; }
-      to { text-shadow: 0 0 20px #00ffff, 0 0 30px #00ffff, 0 0 40px #00ffff; }
-    }
-  </style>
-  
-  <!-- Font Awesome for icons -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-</div>
-
-<!-- Profile Views Counter -->
-<div align="center" style="background-color: #000000;">
-  <img src="https://komarev.com/ghpvc/?username=lohithsai&style=for-the-badge&color=00ffff">
-</div>
+   
