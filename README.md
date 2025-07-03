@@ -99,11 +99,11 @@
     <div style="display: flex; align-items: center; margin-bottom: 15px;">
       <h3 style="color: #ff00ff; margin: 0; font-size: 1.5em; display: flex; align-items: center;">
         <span style="margin-right: 10px;">💬</span>
-        <span>WhatsApp Clone – Offline LAN Chat</span>
+        <span>ShareBlast – Offline LAN Chat</span>
       </h3>
     </div>
     <p style="color: #ffffff; line-height: 1.6; margin-bottom: 15px;">
-      A real-time chat application with offline capabilities, built for local area networks. Features include media sharing, message encryption, and a responsive UI that works across devices.
+      A real-time chat application with offline capabilities, built for local area networks. Features  message encryption, and a responsive UI that works across devices.
     </p>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
       <span style="background: rgba(51, 153, 51, 0.2); color: #4caf50; padding: 5px 12px; border-radius: 15px; font-size: 0.9em; border: 1px solid #4caf50;">Node.js</span>
